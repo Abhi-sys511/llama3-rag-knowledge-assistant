@@ -1,5 +1,6 @@
 venv/
-.env
-knowledge_db/
 __pycache__/
+knowledge_db/
+*.pyc
+.env
 research_output.json
